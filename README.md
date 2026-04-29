@@ -1,4 +1,4 @@
-# Advanced Excel Project: JOB Market Intelligence Analysis
+# ${\color{green} Advanced\ Excel\ Project:\ JOB\ Market\ Intelligence\ Analysis}$
 
 # Objective
 Analyze the Job Market dataset to generate actionable HR insights for hiring strategy, salary benchmarking, demand forecasting, remote work trends, and AI job market growth.
